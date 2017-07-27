@@ -150,5 +150,7 @@ This is a typical example of the implementation of a Looper thread, using the se
 
 [Android -- Looper.prepare()和Looper.loop() —深入版](http://blog.csdn.net/heng615975867/article/details/9194219)
 
+[Android Handler 异步消息处理机制 《第一行代码》](http://blog.csdn.net/u012005313/article/details/48630321)
+
 
 
